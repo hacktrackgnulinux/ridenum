@@ -1,0 +1,3 @@
+chmod -v 775 ridenum.py
+ln -sv /pentest/01/ridenum/ridenum.py /usr/bin/ridenum.py
+ln -sv /pentest/01/ridenum/ridenum.py /usr/bin/ridenum
